@@ -4,6 +4,6 @@ Colour detection is the process of detecting the name of any color. This project
 
 What does this program do?
 
-Feature Extraction: Perform feature extraction for getting the R, G, B Color Histogram values of training images
-Training K-Nearest Neighbors Classifier: Train KNN classifier by R, G, B Color Histogram values
-Classifying by Trained KNN: Read Web Cam frame by frame, perform feature extraction on each frame and then classify the mean color of it by trained KNN classifier.
+1. Feature Extraction: Perform feature extraction for getting the R, G, B Color Histogram values of training images
+2. Training K-Nearest Neighbors Classifier: Train KNN classifier by R, G, B Color Histogram values
+3. Classifying by Trained KNN: Read Web Cam frame by frame, perform feature extraction on each frame and then classify the mean color of it by trained KNN classifier.
